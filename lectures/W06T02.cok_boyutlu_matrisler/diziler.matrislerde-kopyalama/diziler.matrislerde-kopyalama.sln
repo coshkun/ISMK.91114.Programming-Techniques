@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler.dizilerde-kopyalama", "diziler.matrislerde-kopyalama\diziler.dizilerde-kopyalama.csproj", "{065A5F04-26B4-41E9-AA36-2F5CE5A04270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler.aray-koleksiyonu", "diziler.aray-koleksiyonu\diziler.aray-koleksiyonu.csproj", "{D81A91E4-3DD7-480A-81C1-10C18E45FB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065A5F04-26B4-41E9-AA36-2F5CE5A04270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065A5F04-26B4-41E9-AA36-2F5CE5A04270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065A5F04-26B4-41E9-AA36-2F5CE5A04270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065A5F04-26B4-41E9-AA36-2F5CE5A04270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81A91E4-3DD7-480A-81C1-10C18E45FB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81A91E4-3DD7-480A-81C1-10C18E45FB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81A91E4-3DD7-480A-81C1-10C18E45FB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81A91E4-3DD7-480A-81C1-10C18E45FB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
